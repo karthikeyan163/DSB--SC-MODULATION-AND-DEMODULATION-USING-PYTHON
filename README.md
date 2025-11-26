@@ -59,16 +59,16 @@ plt.show()
 ```
  __Tabulation__:
 
-![WhatsApp Image 2025-11-26 at 23 38 38_fa0f95a9](https://github.com/user-attachments/assets/d92e0561-d5df-4102-ae58-ebb85ab80270)
+![WhatsApp Image 2025-11-26 at 23 49 19_aa62874d](https://github.com/user-attachments/assets/209808d5-24e7-4ba0-a3fe-db49eebc26a5)
 
 
 
 
    __Output__:
 
-![WhatsApp Image 2025-11-23 at 07 19 52_f04985ea](https://github.com/user-attachments/assets/b62002d6-9907-4b7e-aa2e-c9a57f32df26)
-
+ <img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/1b7cbd4d-7def-463f-8f02-b9b551a65169" />
    
    __Result__:
-   ![WhatsApp Image 2025-11-23 at 07 23 50_43c2b618](https://github.com/user-attachments/assets/5e647092-18bd-4b70-90d7-de829b08d73b)
+
+   Thus the DSB-SC is proved and verified using python successfully.
 
