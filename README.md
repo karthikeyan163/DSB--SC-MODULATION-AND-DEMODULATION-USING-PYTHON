@@ -29,7 +29,12 @@ __Procedure__:
 7) Low-pass filter to recover message
 
    __Tabulation__:
+   ![WhatsApp Image 2025-11-26 at 19 10 43_826f76dc](https://github.com/user-attachments/assets/03a5d12b-4692-4086-81dc-5627def921c8)
+
 
    __Output__:
+   <img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/1b7cbd4d-7def-463f-8f02-b9b551a65169" />
 
    __Result__:
+
+Thus the DSB-SC is proved and verified using python successfully.
